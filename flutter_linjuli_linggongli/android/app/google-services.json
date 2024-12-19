@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81485305465",
+    "project_id": "zerodistance-d4ef3",
+    "storage_bucket": "zerodistance-d4ef3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81485305465:android:0bc6f44b1d03ace7a7a6a8",
+        "android_client_info": {
+          "package_name": "com.elen.mobile.linggongli.flutter_linjuli_linggongli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3-xgD6fVRxzzhI9dpuKrh_8h4A2d5Qcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
